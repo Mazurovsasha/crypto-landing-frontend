@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-landing-frontend/static/css/main.4f0263b5.css",
+    "main.js": "/crypto-landing-frontend/static/js/main.997567cf.js",
+    "index.html": "/crypto-landing-frontend/index.html",
+    "main.4f0263b5.css.map": "/crypto-landing-frontend/static/css/main.4f0263b5.css.map",
+    "main.997567cf.js.map": "/crypto-landing-frontend/static/js/main.997567cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0263b5.css",
+    "static/js/main.997567cf.js"
+  ]
+}
